@@ -3,6 +3,8 @@
 from bs4 import BeautifulSoup
 import requests
 import emailsender
+import sys
+import os
 
 def check_for_tithi(url):
     send_from = "Today's-Tithi@drikpanchang.com"
