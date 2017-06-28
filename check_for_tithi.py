@@ -1,4 +1,5 @@
 #! /usr/bin/env python
+# need to change this script
 from bs4 import BeautifulSoup
 import requests
 import emailsender
